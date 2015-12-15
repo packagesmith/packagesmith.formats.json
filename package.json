@@ -7,6 +7,9 @@
   "license": "MIT",
   "author": "Keith Cirkel (http://keithcirkel.co.uk)",
   "main": "lib/index.js",
+  "files": [
+    "lib/"
+  ],
   "repository": {
     "type": "git",
     "url": "git+ssh://git@github.com/packagesmith/packagesmith.formats.json.git"
